@@ -21,7 +21,7 @@
 				<version>2.7.2</version>
 				<configuration>
 					<includes>
-						<include>**/UnitTest.java</include>
+						<include>**/*UnitTest.java</include>
 					</includes>
 				</configuration>
 			</plugin>
